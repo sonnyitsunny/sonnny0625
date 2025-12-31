@@ -19,6 +19,22 @@
 - Finance Investing 💰
 - AI 🤖
 
+# SKill
+- Programming languages:
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
+
+- Backend
+
+- DB:
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+
+- Cooperation:
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)
+
 # Project👨‍💻
 > ## 가정용 IOT를 위한 앤드포인트 탐지 및 대응시스템 한양대학교 with LG전자
 - github: https://github.com/SWE-SafeOn/SWE-SafeOn
